@@ -1,4 +1,4 @@
-# TapNOrder
+# Digital Menu
 
 Digital Menu and Online Ordering System
 
